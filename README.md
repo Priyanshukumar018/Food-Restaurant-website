@@ -10,7 +10,7 @@ Using html and css i created a website
     
     
     <link rel="stylesheet" href="style.css">
-    
+    chutiya
 
 </head>
 <body>
